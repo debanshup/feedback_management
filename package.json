@@ -1,0 +1,20 @@
+{
+  "name": "feedback_management",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "\"cd server && npx nodemon app.js\" "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "feedback_management": "file:",
+    "nodemon": "^3.1.7",
+    "pug": "^3.0.3",
+    "transformers": "^3.1.0",
+    "uglify-js": "^3.19.3"
+  },
+  "description": ""
+}
